@@ -17,6 +17,7 @@
 - SheCodes Weather API
 
 # Installation and Usage
+
 To use this app, you can follow these steps:
 
 - Clone the repository or download the source code.
