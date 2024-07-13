@@ -1,4 +1,5 @@
 # React Weather App
+
  It allows users to search for the weather conditions of any city in the world and provides current weather information. The app fetches weather data using the SheCodes Weather API.
 
 ![wapp](https://github.com/user-attachments/assets/aebb9ebb-c0af-4b0f-aea1-b7b8605a9d6f)
