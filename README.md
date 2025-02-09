@@ -7,7 +7,7 @@ This powerful weather application lets users instantly search for real-time weat
 
 ![image](https://github.com/user-attachments/assets/d8b97ac9-32ca-4e25-b8e0-5284ff00a3b4)
 
-![image](https://github.com/user-attachments/assets/5d8bf7e2-28c8-4e8a-a382-f55b5dd6bbc6)
+![image](https://github.com/user-attachments/assets/6a25a84a-dc6e-42a5-8e42-d9c643895b0d)
 
 ![image](https://github.com/user-attachments/assets/d1b8a360-f5e5-4dec-861a-c1be7854c086)
 
