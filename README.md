@@ -1,4 +1,4 @@
-# React Weather App
+# LexiSense
 
 🌍 Global Weather Insights at Your Fingertips! 🌦️
 This powerful weather application lets users instantly search for real-time weather conditions in any city worldwide. It delivers detailed meteorological data, including temperature, humidity, wind speed, and a 5-day forecast with dynamic weather visuals. Powered by the SheCodes Weather API, the app ensures accurate and up-to-date forecasts, providing users with a seamless and visually engaging experience. 🚀
