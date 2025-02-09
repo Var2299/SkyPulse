@@ -5,6 +5,12 @@ This powerful weather application lets users instantly search for real-time weat
 
 ![wapp](https://github.com/user-attachments/assets/aebb9ebb-c0af-4b0f-aea1-b7b8605a9d6f)
 
+![image](https://github.com/user-attachments/assets/d8b97ac9-32ca-4e25-b8e0-5284ff00a3b4)
+
+![image](https://github.com/user-attachments/assets/5d8bf7e2-28c8-4e8a-a382-f55b5dd6bbc6)
+
+![image](https://github.com/user-attachments/assets/d1b8a360-f5e5-4dec-861a-c1be7854c086)
+
 # Features
 - Users can search for weather conditions of any city in the world.
 - The app displays the current weather conditions, including temperature and weather description.
