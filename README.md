@@ -3,7 +3,7 @@
 🌍 Global Weather Insights at Your Fingertips! 🌦️
 This powerful weather application lets users instantly search for real-time weather conditions in any city worldwide. It delivers detailed meteorological data, including temperature, humidity, wind speed, and a 5-day forecast with dynamic weather visuals. Powered by the SheCodes Weather API, the app ensures accurate and up-to-date forecasts, providing users with a seamless and visually engaging experience. 🚀
 
-![Alt text]( public/s-4.gif)
+![Alt text](public/s-4.gif)
 
 ![image](https://github.com/user-attachments/assets/d8b97ac9-32ca-4e25-b8e0-5284ff00a3b4)
 
